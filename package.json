@@ -1,0 +1,22 @@
+{
+  "name": "nullstack-input-mask",
+  "description": "Input mask for Nullstack",
+  "version": "1.0.0",
+  "author": "Luiz Felipe Moureau <luiz@moureau.dev>",
+  "repository": "github:mococa/nullstack-input-mask",
+  "homepage": "https://github.com/mococa/nullstack-input-mask",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "keywords": [
+    "nullstack",
+    "input",
+    "mask",
+    "input-mask"
+  ],
+  "devDependencies": {
+    "nullstack": ">=0.16.0"
+  },
+  "peerDependencies": {
+    "nullstack": ">=0.16.0"
+  }
+}
