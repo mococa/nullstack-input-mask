@@ -1,7 +1,7 @@
 {
   "name": "nullstack-input-mask",
   "description": "Input mask for Nullstack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Luiz Felipe Moureau <luiz@moureau.dev>",
   "repository": "github:mococa/nullstack-input-mask",
   "homepage": "https://github.com/mococa/nullstack-input-mask",

@@ -57,7 +57,7 @@ export interface InputMaskProps extends Partial<BaseProps> {
      * @description
      * Default value for the input
      */
-    defaultvalue: string;
+    defaultvalue?: string;
 
     /**
      * @description
